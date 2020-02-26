@@ -1,2 +1,3 @@
-# krispyfries.github.io
-I have no idea what I'm doing B^)
+## Krispy Fried Site
+
+Here I post my tech ramblings.
