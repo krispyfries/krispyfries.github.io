@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Post 0"
-date:   2020-02-26 00:00:00 -0800
-categories: test
----
-This is a test post. This post is because I know nothing of web design. Sample Text
