@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deprecating NS_NewNamedThread"
-date:   2020-02-28 16:00:00 -0800
+date:   2020-02-28 10:00:00 -0800
 categories: blog
 ---
 
